@@ -96,4 +96,6 @@ console.log("\n🫧 Sorted by name (bubble sort):");
 myPhoneBook.printEntries(myPhoneBook.bubbleSortByName());
 
 console.log("\n📋 Unsorted entries:");
-myPhoneBook.printEntries(); // Print unsorted entries
+myPhoneBook.printEntries();
+
+// The git ignore file includes some directories that where never used, ubt id like to keep in this folder for future reference.
